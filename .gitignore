@@ -8,8 +8,6 @@ npm-debug.log*
 yarn.lock
 google-generated-credentials.json
 _START_PACKAGE
-.env
-.vscode/*
 !.vscode/extensions.json
 !.vscode/settings.default.json
 .idea
@@ -45,3 +43,4 @@ packages/cli/THIRD_PARTY_LICENSES.md
 .nyc_output
 packages/cli/src/commands/export/outputs
 *.bak
+config.bat
